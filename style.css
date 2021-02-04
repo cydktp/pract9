@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+}
+input.form1{
+    width: 225pt;
+    height: 25pt;
+}
+input.boton1{
+    width: 225pt;
+    height: 25pt;
+    text-align: center;
+}
+input.form2{
+    width: 400pt;
+    height: 30pt;
+}
+.form3{
+    width: 197pt;
+    height: 30pt;
+}
+.sel1{
+    height: 33pt;
+}
+.form4{
+    width: 160pt;
+    height: 30pt;
+}
+.form5{
+    width: 250pt;
+    height: 30pt;
+}
+input.boton2{
+    width: 250pt;
+    height: 30pt;
+    text-align: center;
+}
